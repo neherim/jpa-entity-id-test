@@ -1,0 +1,6 @@
+rootProject.name = 'jpa-entity-id-test'
+include 'embedded'
+include 'typed'
+include 'typed2'
+include 'converter'
+
